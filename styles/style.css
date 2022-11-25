@@ -240,7 +240,7 @@
 
 .table__theme_dark {
   padding: 0;
-  z-index: 1
+  z-index: 1;
 }
 
 .table__cell_theme_dark {
@@ -290,11 +290,11 @@
 }
 
 .footer__column_content_info {
-  position: relative
+  position: relative;
 }
 
 .footer__column_content_social {
-  position: relative
+  position: relative;
 }
 
 .logo_place_footer {
