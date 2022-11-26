@@ -94,7 +94,7 @@
   font-size: 18px;
   line-height: 1.2;
   font-weight: normal;
-  margin: 0
+  margin: 0;
 }
 
 .two-columns__main-text {
@@ -343,7 +343,6 @@ position: relative;
   font-weight: normal;
   color: #f2f2f2;
   text-decoration: none;
-  margin: 0;
 }
 
 .footer__column-heading {
