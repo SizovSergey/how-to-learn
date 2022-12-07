@@ -4,3 +4,7 @@
   margin: 0 20px 0 0;
   position: relative;
 }
+
+.video__iframe:last-child {
+  margin-right: 0;
+}
