@@ -1,9 +1,5 @@
 .techniques {
   padding-top: 100px;
   margin: auto;
-  width: 80%;  /* Забыл... */
-  /* Подскажите пожалуйста стоит ли делать эту секцию Flexboxсом 
-  display:flex;
-  flex-flow:row wrap;
-  align-content: center; */
+  width: 80%;  
 }
